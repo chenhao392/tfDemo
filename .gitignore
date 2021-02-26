@@ -1,0 +1,8 @@
+#BERT pre-train model
+uncased_L-12_H-768_A-12/*
+
+#ipython checkpoints
+.ipynb_checkpoints/
+
+# BERT demo
+bertForMLC.ipynb
